@@ -51,7 +51,7 @@ Using pip: `bash pip install -r requirement.txt`
 - `openai` - OpenRouter API integration
 - `requests` - HTTP requests for Indian Kanoon API
 - `reportlab` - PDF generation
-- en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl
+- en-core-web-lg model from [https://spacy.io/models/en](https://github.com/explosion/spacy-models/releases/tag/en_core_web_lg-3.8.0)
 - `scikit-learn` - Fine tuning Rhetorical role annotation model
   
 ### Model Setup
